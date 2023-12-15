@@ -4,7 +4,7 @@ OpenAI Assistant ID: asst_WSegvVDgg0CXCsfVl7sB9tDf
 layout: posts
 title: "1691, den 5 januari, Kemi Lappmark"
 date: 1691-01-05
-categories: 
+categories: jekyll update
 ---
 
 
